@@ -55,9 +55,9 @@ return [
 		'mysql' => [
 			'driver'    => 'mysql',
 			'host'      => env('localhost', 'localhost'),
-			'database'  => env('API', 'API'),
+			'database'  => env('tiket', 'tiket'),
 			'username'  => env('root', 'root'),
-			'password'  => env('akmal603', 'akmal603'),
+			'password'  => env('dyo1234', 'dyo1234'),
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
